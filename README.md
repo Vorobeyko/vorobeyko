@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kotovaleksandr&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotovaleksandr" />
+</a>
+
 <!--
 **Vorobeyko/vorobeyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
