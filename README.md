@@ -73,6 +73,8 @@ Replace 'YOUR_WAKATIME_USERNAME' with your actual WakaTime username.
 </p>
 
 ---
+
+
 <!--
 ## Random Cat (for fun)
 
@@ -97,3 +99,5 @@ Replace 'YOUR_WAKATIME_USERNAME' with your actual WakaTime username.
 - **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
 - **Telegram**: [@YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
 -->
+
+![](https://pixel-profile-ui.vercel.app/api/github-stats?username=vorobeyko&include_all_commits=true&pixelate_avatar=true&theme=monica&theme=monica&color=%23ffffffFF&hide=avatar)
